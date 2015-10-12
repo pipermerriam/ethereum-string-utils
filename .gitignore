@@ -1,0 +1,7 @@
+.password
+.genesis.json
+build/
+dist/
+chains/
+**/_build
+**/.cache/**
