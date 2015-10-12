@@ -26,6 +26,6 @@ Converts a numeric string to it's unsigned integer representation.
 
 
 ```javascript
-> stringUtils.uintToBytes("1234")
+> stringUtils.bytesToUInt("1234")
 1234
 ```
